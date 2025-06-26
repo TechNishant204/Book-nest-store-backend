@@ -22,7 +22,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://book-nest-store-frontend-pdv3mz2wv-technishant204s-projects.vercel.app",
+      "https://book-nest-store-frontend.vercel.app",
     ],
     credentials: true,
   })
